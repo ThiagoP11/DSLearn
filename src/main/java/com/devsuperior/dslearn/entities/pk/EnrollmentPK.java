@@ -3,7 +3,7 @@ package com.devsuperior.dslearn.entities.pk;
 import com.devsuperior.dslearn.entities.Offer;
 import com.devsuperior.dslearn.entities.User;
 import jakarta.persistence.Embeddable;
-import jakarta.persistence.FetchType;
+
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 
